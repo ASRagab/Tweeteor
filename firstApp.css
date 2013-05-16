@@ -1,0 +1,50 @@
+/* CSS declarations go here */
+* {
+	font-family: sans-serif;
+}
+
+.tweet {
+
+	height: 35px;
+	font-size: smaller;
+	text-align: center;
+	background-color: white;
+	color: black;
+	border: 2px solid #3cf;
+	margin: 5px;
+	padding: 15px;
+	border-radius: 50px 0px 50px 10px;
+}
+
+div.bar {
+    display: inline-block;
+    width: 20px;
+    height: 75px;   /* We'll override this later */
+    background-color: teal;
+    margin-right: 3px;
+}
+
+#tweetCount {
+	font-size: xx-small;
+}
+
+div.tooltip {
+  position: absolute;       
+  text-align: center;           
+  pointer-events: auto; 
+	
+}
+
+#map-background {
+	 margin-left: auto;
+	 margin-right: auto;
+	 border: 1px solid #777;
+	 
+	
+}
+
+#map-background > svg {
+	fill: #989898;
+}
+
+

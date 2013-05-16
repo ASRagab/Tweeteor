@@ -1,0 +1,5 @@
+# Packages
+
+.meteor
+.DS_Store
+.lock
