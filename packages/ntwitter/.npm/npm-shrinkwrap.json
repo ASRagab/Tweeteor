@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "ntwitter": {
+      "version": "0.5.0",
+      "dependencies": {
+        "oauth": {
+          "version": "0.9.10"
+        },
+        "cookies": {
+          "version": "0.1.6"
+        },
+        "keygrip": {
+          "version": "0.2.2"
+        }
+      }
+    }
+  }
+}

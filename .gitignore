@@ -3,3 +3,4 @@
 .meteor
 .DS_Store
 .lock
+credentials.js
